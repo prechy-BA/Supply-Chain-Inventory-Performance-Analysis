@@ -1,6 +1,4 @@
 # Supply-Chain-Inventory-Performance-Analysis
-Excel dashboard analysing 5,000 purchase orders: delivery reliability, supplier performance and inventory risk
-# Supply Chain Inventory & Delivery Performance Analysis
 
 An Excel data analytics project that cleans and analyses 5,000 purchase orders (January to December 2025) to answer four questions: are suppliers delivering on time and in full, how long do orders really take, how much stock is at risk, and where does the money go. The results are presented in an interactive Excel dashboard.
 
